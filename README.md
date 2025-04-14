@@ -6,7 +6,7 @@ Front-End Developer & Design Enthousiast
 
 * 🌍  I'm based in Hoorn, Netherlands
 * 🖥️  See my portfolio at [markdenijs.nl](http://www.markdenijs.nl)
-* 🏢  I'm currently working at [leads.io](http://www.leads.io)
+* 🏢  I'm currently working at [Logisitek Zonder Papier](https://lzp.nl/)
 * 🧠  Currently learning Nuxt, PHP, Laravel, SQL and Supabase
 * 🚀  Working on a few personal projects
 
