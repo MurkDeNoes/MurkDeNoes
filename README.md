@@ -6,7 +6,7 @@ Front-End Developer & Design Enthousiast
 
 * 🌍  I'm based in Hoorn, Netherlands
 * 🖥️  See my portfolio at [markdenijs.nl](http://www.markdenijs.nl)
-* 🏢  I'm currently working at [Logisitek Zonder Papier](https://lzp.nl/)
+* 🏢  I'm currently working at [TicketSwap](https://www.ticketswap.com/)
 * 🧠  Currently learning Nuxt, Node.js, SQL and Supabase
 * 🚀  Working on a few personal projects
 
