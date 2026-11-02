@@ -1,16 +1,7 @@
-Hi 👋 My name is Mark de Nijs
-=============================
-
-Front-End Developer & Design Enthousiast
-----------------------------------------
+<img src="banner.svg" alt="Mark De Nijs, a Front-End Developer and Design Enthusiast" width="100%">
 
 * 🌍  I'm based in Hoorn, Netherlands
-* 🖥️  See my portfolio at [markdenijs.nl](http://www.markdenijs.nl)
+* 🖥️  See my portfolio at [markdenijs.nl](https://www.markdenijs.nl)
 * 🏢  I'm currently working at [TicketSwap](https://www.ticketswap.com/)
-* 🧠  Currently learning Nuxt, Node.js, SQL and Supabase
-* 🚀  Working on a few personal projects
-
-<!---
-MurkDeNoes/MurkDeNoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🛠️  Co-founder of [Skillmigo](https://skillmigo.com), a learning app for hands-on trades
+* 🧠  Currently learning Astro, Cloudflare Workers, Hono and Drizzle
